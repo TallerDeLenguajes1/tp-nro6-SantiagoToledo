@@ -1,0 +1,7 @@
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\bin\Debug\tp6.exe.config
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\bin\Debug\tp6.exe
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\bin\Debug\tp6.pdb
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\obj\Debug\tp6.csprojAssemblyReference.cache
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\obj\Debug\tp6.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\obj\Debug\tp6.exe
+C:\Users\santi\Documents\Facultad\Taller de Lenguajes I\github\tp-nro6-SantiagoToledo\tp6\obj\Debug\tp6.pdb
