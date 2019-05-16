@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\Ejercico2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\Ejercico2\bin\Debug\Ejercico2.exe.config
+C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\Ejercico2\bin\Debug\Ejercico2.exe
+C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\Ejercico2\bin\Debug\Ejercico2.pdb
+C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\Ejercico2\obj\Debug\Ejercico2.exe
+C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\Ejercico2\obj\Debug\Ejercico2.pdb
