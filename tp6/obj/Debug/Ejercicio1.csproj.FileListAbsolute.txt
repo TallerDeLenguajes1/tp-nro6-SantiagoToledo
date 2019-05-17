@@ -1,3 +1,0 @@
-C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\tp6\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
-C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\tp6\obj\Debug\tp6.exe
-C:\Users\Alumno\Desktop\Santiago\tp-nro6-SantiagoToledo\tp6\obj\Debug\tp6.pdb
