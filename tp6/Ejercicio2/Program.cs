@@ -46,6 +46,7 @@ namespace Ejercicio2
                         break;
                 }
 
+                
                 Console.WriteLine("\nResultado: {0}", res);
                 Console.WriteLine("\nIngrese 5 para realizar otra operacion, 0 para salir");
                 menu = Convert.ToInt32(Console.ReadLine());

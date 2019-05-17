@@ -10,9 +10,9 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
-            int n = 1893;
+            int n;
             Console.WriteLine("Ingrese un numero: ");
-            n = Console.Read();
+            n = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine($"{n} invertido: {Invertir(n)}");
 
